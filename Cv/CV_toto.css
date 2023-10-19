@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 18 20:05:20 2023
+
+@author: hp
+"""
+
+  body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+  }
+  header, footer {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  section {
+      margin-bottom: 30px;
+  }
+  h2 {
+      color: darkblue;
+  }
+  ul {
+      list-style: none;
+      padding-left: 0;
+  }
+  p, li {
+      margin-bottom: 10px;
+  }
